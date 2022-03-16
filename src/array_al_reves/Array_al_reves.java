@@ -28,7 +28,7 @@ public class Array_al_reves {
 			teclado= sc.nextInt();
 			valor1[i]= teclado;
 		}		
-		// PRINTAR POR PANTALLA
+		// PRINTAR POR PANTALLA.
 		for (int i = 0; i < valor1.length; i++) {
 			System.out.println("primer array");
 			System.out.println("----------------------------");
